@@ -1,10 +1,11 @@
+![logo](https://github.com/AhmedBashirAwan/AhmedBashirAwan/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Bashir</h1>
 <h3 align="center">A passionate Mobile App Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+
 <p align="left">
-I'm Ahmed Bashir, a seasoned Flutter developer with over a year of dedicated experience crafting sophisticated mobile applications that seamlessly balance functionality and aesthetics. Here's a glimpse into my professional journey:
 
 🔭 Currently working on: Spearheading the development of cutting-edge mobile applications with a focus on enhancing user experiences through innovative features and robust functionality, all powered by Flutter.
 
