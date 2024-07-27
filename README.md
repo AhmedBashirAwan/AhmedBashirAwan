@@ -7,15 +7,9 @@
 
 <p align="left">
 
-🔭 Currently working on: Spearheading the development of cutting-edge mobile applications with a focus on enhancing user experiences through innovative features and robust functionality, all powered by Flutter.
+🔭 I am a passionate Flutter Developer. Currently, I am working at Ninja Tech Solutions, where I have been instrumental in deploying high-quality mobile applications. My technical expertise extends to backend development with Node.js, Express.js, and MongoDB, allowing me to build full-stack solutions that are both robust and scalable.
 
-👯 Looking to collaborate on: Engaging in impactful contributions to open-source projects within the Flutter ecosystem. My expertise lies in advanced state management and API integration, and I'm eager to collaborate on projects that push the boundaries of mobile app development.
-
-💬 Ask me about: My proficiency in Flutter, state management, API integration, and strategies for optimizing app performance. I'm here to share insights and help navigate the intricacies of mobile app development.
-
-🚀 Professional Focus: Striving to achieve excellence in delivering scalable and efficient mobile solutions. Dedicated to staying abreast of industry trends and implementing best practices in mobile app development.
-
-Let's push the boundaries of mobile app development together with a focus on excellence and innovation! 🚀
+Throughout my career, I have successfully contributed to various projects, leveraging my skills to enhance user experience and optimize performance. I am always eager to learn new technologies and improve my existing skills. Currently, I am focused on building my professional network and seeking new opportunities that challenge me and allow me to grow further as a developer.🚀
 </p>
 
 <h3 align="left">Connect with me:</h3>
